@@ -9,7 +9,7 @@ export default function Home() {
         >
           <div className="d-flex align-items-center justify-content-between">
             <a href="index.html" className="logo d-flex align-items-center">
-              <img src="assets/img/logo.png" alt />
+              <img src="assets/img/logo.png" alt="Logo" />
               <span className="d-none d-lg-block">NiceAdmin</span>
             </a>
             <i className="bi bi-list toggle-sidebar-btn" />
@@ -140,7 +140,7 @@ export default function Home() {
                     <a href="#">
                       <img
                         src="assets/img/messages-1.jpg"
-                        alt
+                        alt="message-1"
                         className="rounded-circle"
                       />
                       <div>
@@ -160,7 +160,7 @@ export default function Home() {
                     <a href="#">
                       <img
                         src="assets/img/messages-2.jpg"
-                        alt
+                        alt="message2"
                         className="rounded-circle"
                       />
                       <div>
@@ -180,7 +180,7 @@ export default function Home() {
                     <a href="#">
                       <img
                         src="assets/img/messages-3.jpg"
-                        alt
+                        alt="message3"
                         className="rounded-circle"
                       />
                       <div>
@@ -982,7 +982,10 @@ export default function Home() {
                             <tr>
                               <th scope="row">
                                 <a href="#">
-                                  <img src="assets/img/product-1.jpg" alt />
+                                  <img
+                                    src="assets/img/product-1.jpg"
+                                    alt="product1"
+                                  />
                                 </a>
                               </th>
                               <td>
@@ -997,7 +1000,10 @@ export default function Home() {
                             <tr>
                               <th scope="row">
                                 <a href="#">
-                                  <img src="assets/img/product-2.jpg" alt />
+                                  <img
+                                    src="assets/img/product-2.jpg"
+                                    alt="product2"
+                                  />
                                 </a>
                               </th>
                               <td>
@@ -1012,7 +1018,10 @@ export default function Home() {
                             <tr>
                               <th scope="row">
                                 <a href="#">
-                                  <img src="assets/img/product-3.jpg" alt />
+                                  <img
+                                    src="assets/img/product-3.jpg"
+                                    alt="product3"
+                                  />
                                 </a>
                               </th>
                               <td>
@@ -1027,7 +1036,10 @@ export default function Home() {
                             <tr>
                               <th scope="row">
                                 <a href="#">
-                                  <img src="assets/img/product-4.jpg" alt />
+                                  <img
+                                    src="assets/img/product-4.jpg"
+                                    alt="product4"
+                                  />
                                 </a>
                               </th>
                               <td>
@@ -1042,7 +1054,10 @@ export default function Home() {
                             <tr>
                               <th scope="row">
                                 <a href="#">
-                                  <img src="assets/img/product-5.jpg" alt />
+                                  <img
+                                    src="assets/img/product-5.jpg"
+                                    alt="product5"
+                                  />
                                 </a>
                               </th>
                               <td>
@@ -1269,7 +1284,7 @@ export default function Home() {
                     </h5>
                     <div className="news">
                       <div className="post-item clearfix">
-                        <img src="assets/img/news-1.jpg" alt />
+                        <img src="assets/img/news-1.jpg" alt="news1" />
                         <h4>
                           <a href="#">Nihil blanditiis at in nihil autem</a>
                         </h4>
@@ -1279,7 +1294,7 @@ export default function Home() {
                         </p>
                       </div>
                       <div className="post-item clearfix">
-                        <img src="assets/img/news-2.jpg" alt />
+                        <img src="assets/img/news-2.jpg" alt="news2" />
                         <h4>
                           <a href="#">Quidem autem et impedit</a>
                         </h4>
@@ -1289,7 +1304,7 @@ export default function Home() {
                         </p>
                       </div>
                       <div className="post-item clearfix">
-                        <img src="assets/img/news-3.jpg" alt />
+                        <img src="assets/img/news-3.jpg" alt="news3" />
                         <h4>
                           <a href="#">
                             Id quia et et ut maxime similique occaecati ut
@@ -1301,7 +1316,7 @@ export default function Home() {
                         </p>
                       </div>
                       <div className="post-item clearfix">
-                        <img src="assets/img/news-4.jpg" alt />
+                        <img src="assets/img/news-4.jpg" alt="news4" />
                         <h4>
                           <a href="#">Laborum corporis quo dara net para</a>
                         </h4>
@@ -1311,7 +1326,7 @@ export default function Home() {
                         </p>
                       </div>
                       <div className="post-item clearfix">
-                        <img src="assets/img/news-5.jpg" alt />
+                        <img src="assets/img/news-5.jpg" alt="news5" />
                         <h4>
                           <a href="#">
                             Et dolores corrupti quae illo quod dolor
